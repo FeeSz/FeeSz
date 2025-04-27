@@ -50,7 +50,7 @@
       </ul>
     </td>
     <td style="vertical-align: top; text-align: right;">
-      <img src="URL-DO-SEU-GIF-AQUI" width="250"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250"/>
     </td>
   </tr>
 </table>
