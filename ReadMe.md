@@ -40,26 +40,24 @@
 
 # 🖥️ Currently Working On
 
-<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
+<table>
+<tr>
+<td align="left" width="55%">
 
-<div style="width: 55%;">
-  
-- 🚀 Enhancing Web Development Skills  
-- ⚙️ Building Projects in Python & JavaScript  
-- 📚 Learning About APIs, Databases, and Cloud Concepts  
+<ul>
+  <li>🚀 Enhancing Web Development Skills</li>
+  <li>⚙️ Building Projects in Python & JavaScript</li>
+  <li>📚 Learning About APIs, Databases, and Cloud Concepts</li>
+</ul>
 
-</div>
+</td>
+<td align="center" width="45%">
 
-<div style="width: 40%;">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300px" alt="Currently Working GIF">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300px" alt="Currently Working GIF"/>
-
-</div>
-
-</div>
-
-
-
+</td>
+</tr>
+</table>
 
 
 ## 📈 GitHub Stats
