@@ -1,50 +1,83 @@
-# 👨‍💻 Who I Am:
-I'm Felype Souza, a 17-year-old student currently in my final year of a technical high school program in Information Technology. Over the past year, I have been deeply engaged in developing my skills in programming, networking, and system management. Technology has always been a field that inspires me, and I am constantly looking to expand my knowledge through practical projects and continuous learning. As I approach graduation, I am motivated to build a strong career in IT, combining the solid theoretical foundation I've acquired with real-world experience. I'm passionate about staying updated with the latest tech trends and applying innovative solutions to challenges. 🚀
+<h1 align="center">Hi 👋, I'm Felype Souza</h1>
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fy.souzaa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felypelopes7@gmail.com)
-
-# 💻 Tech Stack:
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+✨ 17 years old | 🎓 Final-year Technical High School IT Student | 👨‍💻 Future Developer
 
 </div>
 
 <br/>
 
+## 👨‍💻 About Me
+- 🎯 Focused on building a strong career in Information Technology
+- 📚 Developing solid skills in **Programming**, **Networking**, and **System Administration**
+- 🚀 Passionate about tech innovation and constantly expanding my knowledge through practical projects
+- 🔎 Always curious and up-to-date with the latest trends in technology
+- 🎓 Currently completing my **Technical High School Program** in Information Technology
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/fy.souzaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:felypelopes7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
 <div align="center">
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE4eDViODBzMnlyaTVwZGFlaXVlbDZzNTN4ZTE1ZDQydndmejFoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pkfWxD1OWjwhnpF2Rb/giphy.gif" width="300px">
-
-</div>
-
-# 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=FeeSz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FeeSz&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FeeSz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-# 🏆 GitHub Trophies:
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=FeeSz&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
+
+## 🖥️ Currently Working On
+- 🚀 **Enhancing Web Development Skills**
+- ⚙️ **Building Projects in Python & JavaScript**
+- 📚 **Learning About APIs, Databases, and Cloud Concepts**
+
+---
+
+## 📈 GitHub Stats
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=FeeSz&icon=5&color=3)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api?username=FeeSz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Felype Souza GitHub Stats" height="160px"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=FeeSz&theme=transparent&hide_border=true" alt="GitHub Streak" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeeSz&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" height="160px"/>
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=FeeSz&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🎨 Fun Section
+<div align="center">
+  
+<img src="https://media2.giphy.com/media/pkfWxD1OWjwhnpF2Rb/giphy.gif" width="300px" alt="Cool Developer GIF">
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=FeeSz&label=Profile%20Views&icon=5&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+<!-- Designed with ❤️ by Felype Souza -->
