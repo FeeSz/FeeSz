@@ -38,26 +38,27 @@
 
 <br/>
 
-## 🖥️ Currently Working On
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+# 🖥️ Currently Working On
 
-<div style="flex: 1; min-width: 250px;">
-  
-- 🚀 Enhancing Web Development Skills  
-- ⚙️ Building Projects in Python & JavaScript  
-- 📚 Learning About APIs, Databases, and Cloud Concepts  
+<table>
+<tr>
+<td align="left" width="55%">
 
-</div>
+<ul>
+  <li>🚀 Enhancing Web Development Skills</li>
+  <li>⚙️ Building Projects in Python & JavaScript</li>
+  <li>📚 Learning About APIs, Databases, and Cloud Concepts</li>
+</ul>
 
-<div style="flex: 1; min-width: 250px;">
+</td>
+<td align="center" width="45%">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300px" alt="Currently Working GIF"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300px" alt="Currently Working GIF">
 
-</div>
+</td>
+</tr>
+</table>
 
-</div>
-
-<br/>
 
 ## 📈 GitHub Stats
 <div align="center">
