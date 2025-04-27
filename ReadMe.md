@@ -40,20 +40,18 @@
 
 # 🖥️ Currently Working On
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>✨ Enhancing Web Development Skills</li>
-        <li>🛠️ Building Projects in Python & JavaScript</li>
-        <li>☁️ Learning About APIs, Databases, and Cloud Concepts</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top; text-align: right;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250"/>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  
+- ✨ Enhancing Web Development Skills  
+- 🛠️ Building Projects in Python & JavaScript  
+- ☁️ Learning About APIs, Databases, and Cloud Concepts  
+
+</div>
+
+<div align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250">
+</div>
+
 
 </table>
 
