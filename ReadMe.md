@@ -42,7 +42,7 @@
 
 <table>
 <tr>
-<td align="left" width="55%">
+<td align="left" width="55%" style="border: none;">
 
 <ul>
   <li>🚀 Enhancing Web Development Skills</li>
