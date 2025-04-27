@@ -40,32 +40,22 @@
 
 # 🖥️ Currently Working On
 
-<div align="left">
-  
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1;">
+
 - ✨ Enhancing Web Development Skills  
 - 🛠️ Building Projects in Python & JavaScript  
 - ☁️ Learning About APIs, Databases, and Cloud Concepts  
 
 </div>
 
-<div align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250">
+<div style="flex: 1; text-align: center;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200">
 </div>
-
-
-</table>
-
-
-## 📈 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FeeSz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Felype Souza GitHub Stats" height="160px"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=FeeSz&theme=transparent&hide_border=true" alt="GitHub Streak" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeeSz&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" height="160px"/>
 
 </div>
 
-<br/>
 
 ## 🏆 GitHub Trophies
 <div align="center">
