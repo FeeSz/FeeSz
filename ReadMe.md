@@ -65,10 +65,9 @@
 
 ---
 
-## 🎨 Fun Section
 <div align="center">
-  
-<img src="https://media2.giphy.com/media/pkfWxD1OWjwhnpF2Rb/giphy.gif" width="300px" alt="Cool Developer GIF">
+
+<img src="https://media2.giphy.com/media/pkfWxD1OWjwhnpF2Rb/giphy.gif" width="500px" alt="Developer GIF">
 
 </div>
 
@@ -80,4 +79,3 @@
 
 </div>
 
-<!-- Designed with ❤️ by Felype Souza -->
