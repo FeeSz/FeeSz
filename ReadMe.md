@@ -41,7 +41,7 @@
 # 🖥️ Currently Working On
 <p align="left">
   
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="130" style="margin-left: 20px;">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" style="margin-left: 20px;">
 
 - ✨ Enhancing Web Development Skills  
 - 🛠️ Building Projects in Python & JavaScript  
