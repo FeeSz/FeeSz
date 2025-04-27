@@ -40,21 +40,16 @@
 
 # 🖥️ Currently Working On
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1;">
+<p align="left">
+  
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" style="margin-left: 20px;">
 
 - ✨ Enhancing Web Development Skills  
 - 🛠️ Building Projects in Python & JavaScript  
 - ☁️ Learning About APIs, Databases, and Cloud Concepts  
 
-</div>
+</p>
 
-<div style="flex: 1; text-align: center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200">
-</div>
-
-</div>
 
 
 ## 🏆 GitHub Trophies
