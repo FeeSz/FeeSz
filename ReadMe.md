@@ -46,9 +46,10 @@
 - ✨ Enhancing Web Development Skills  
 - 🛠️ Building Projects in Python & JavaScript  
 - ☁️ Learning About APIs, Databases, and Cloud Concepts  
+
 </p>
 
-
+<br/><br/>
 
 ## 🏆 GitHub Trophies
 <div align="center">
