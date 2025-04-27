@@ -39,22 +39,21 @@
 <br/>
 
 ## 🖥️ Currently Working On
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
-<table>
-<tr>
-<td>
-
+<div style="flex: 1; min-width: 250px;">
+  
 - 🚀 Enhancing Web Development Skills  
 - ⚙️ Building Projects in Python & JavaScript  
-- 📚 Learning About APIs, Databases, and Cloud Concepts
+- 📚 Learning About APIs, Databases, and Cloud Concepts  
 
-</td>
-<td>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250px" alt="Currently Working GIF"/>
-</td>
-</tr>
-</table>
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300px" alt="Currently Working GIF"/>
+
+</div>
 
 </div>
 
