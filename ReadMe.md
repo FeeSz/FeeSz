@@ -40,7 +40,7 @@
 
 # 🖥️ Currently Working On
 
-<div align="left" style="display: flex; align-items: center; justify-content: space-between;" border: none;">
+<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
 
 <div style="width: 55%;">
   
