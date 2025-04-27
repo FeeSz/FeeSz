@@ -92,5 +92,3 @@
 [![](https://visitcount.itsvg.in/api?id=FeeSz&label=Profile%20Views&icon=5&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-<!-- Designed with ❤️ by Felype Souza -->
