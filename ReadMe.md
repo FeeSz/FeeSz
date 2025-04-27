@@ -39,9 +39,24 @@
 <br/>
 
 ## 🖥️ Currently Working On
-- 🚀 **Enhancing Web Development Skills**
-- ⚙️ **Building Projects in Python & JavaScript**
-- 📚 **Learning About APIs, Databases, and Cloud Concepts**
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+- 🚀 Enhancing Web Development Skills  
+- ⚙️ Building Projects in Python & JavaScript  
+- 📚 Learning About APIs, Databases, and Cloud Concepts
+
+</td>
+<td>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMzJiaGVjYWpraGM3MnFqcXo2NjRwampvc256dnY1OGYweGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250px" alt="Currently Working GIF"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
