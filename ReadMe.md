@@ -2,7 +2,7 @@
 
 <div align="center">
   
-✨ 18 years old | 🎓 Final-year Technical High School IT Student | 👨‍💻 Future Developer
+✨ 18 years old | 🎓 IT Student | 👨‍💻 Future Developer
 
 </div>
 
