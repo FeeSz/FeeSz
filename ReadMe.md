@@ -128,16 +128,6 @@ Technical IT Student • Future Software Developer • Technology Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=FeeSz&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
-
-</div>
-
----
-
 ## ✍️ Developer Quote
 
 <div align="center">
@@ -146,25 +136,9 @@ Technical IT Student • Future Software Developer • Technology Enthusiast
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/FeeSz/FeeSz/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
-## 👀 Profile Views
-
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=FeeSz&label=Profile%20Views&color=12&icon=5&pretty=true)
-
-</div>
 
 ---
 
