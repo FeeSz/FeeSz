@@ -140,13 +140,6 @@ Technical IT Student • Future Software Developer • Technology Enthusiast
 ---
 
 
-
-
-
-
-
-
-
 ---
 
 <div align="center">
