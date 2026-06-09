@@ -12,11 +12,13 @@ Technical IT Student • Future Software Developer • Technology Enthusiast
 
 ## 👨‍💻 About Me
 
-🎓 Technical High School Student in Information Technology
+🎓 Bachelor's Degree Student in Information Systems
 
-💻 Passionate about Software Development, Automation and Technology
+💻 Former Technical High School Graduate in Information Technology
 
-🚀 Building projects to strengthen practical experience and professional growth
+🚀 Passionate about Software Development, Automation and Technology
+
+🎨 Building projects to strengthen practical experience and professional growth
 
 📚 Currently learning more about:
 
