@@ -27,7 +27,7 @@
 - Cloud Concepts
 - Software Engineering
 
-🎯 Goal: Become a Back-end Developer and Software Engineer
+🎯 Goal: Become a Back-end/Full Stack Developer  
 
 ---
 
