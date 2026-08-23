@@ -18,7 +18,7 @@
 🚀 Desenvolvo aplicações full stack com Python/Flask/FastAPI no backend e React/TypeScript no frontend
 🎯 Objetivo: Desenvolvedor Full Stack Júnior / Backend Python
 
-Trabalho profissionalmente com sustentação de sistemas, diagnóstico de incidentes e suporte técnico corporativo — e uso essa mesma disciplina de resolução de problemas reais para construir os projetos abaixo.
+Trabalho profissionalmente com sustentação de sistemas, diagnóstico de incidentes e uso essa mesma disciplina de resolução de problemas reais para construir os projetos abaixo.
 
 ---
 
