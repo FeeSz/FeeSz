@@ -13,9 +13,13 @@
 ## 👨‍💻 Sobre mim
 
 🎓 Estudante de Sistemas de Informação — Universidade São Judas Tadeu (USJT)
+
 🖥️ Técnico em Informática — Colégio Victorino
+
 💼 Técnico de TI — Suporte e Sustentação de Sistemas na InfoDoc - Gestão Documental
+
 🚀 Desenvolvo aplicações full stack com Python/Flask/FastAPI no backend e React/TypeScript no frontend
+
 🎯 Objetivo: Desenvolvedor Full Stack Júnior / Backend Python
 
 Trabalho profissionalmente com sustentação de sistemas, diagnóstico de incidentes e uso essa mesma disciplina de resolução de problemas reais para construir os projetos abaixo.
