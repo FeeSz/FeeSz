@@ -16,7 +16,7 @@
 
 🖥️ Técnico em Informática — Colégio Victorino
 
-💼 Técnico de TI — Suporte e Sustentação de Sistemas na InfoDoc - Gestão Documental
+💼 Técnico de TI — Sustentação de Sistemas na Infodoc Gestão Documental
 
 🚀 Desenvolvo aplicações full stack com Python/Flask/FastAPI no backend e React/TypeScript no frontend
 
