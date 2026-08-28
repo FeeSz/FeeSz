@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Felype Souza<
 
   Full Stack Developer. • Python & Backend • React & TypeScript • IT Professional
-                                   /h1>
+                                   </h1>
 
 
 <p align="center">
