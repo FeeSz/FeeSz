@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-AUTOMATION-F8FAFC?style=for-the-badge&labelColor=0D1117" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=550&color=00E5FF&background=0D1117&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%5BBOOT%5D+Initializing+Felype.exe...;%5BOK%5D+Loading+Full Stack+Modules...;%5BOK%5D+Mounting+Python+%7C+FastAPI+%7C+SQL...;%5BOK%5D+Connecting+APIs+%26+Automation...;%5BREADY%5D+Welcome+to+my+GitHub." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=550&color=00E5FF&background=0D1117&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%5BBOOT%5D+Initializing+Felype.exe...;%5BOK%5D+Loading+Full+Stack+Modules...;%5BOK%5D+Mounting+Python+%7C+FastAPI+%7C+SQL...;%5BOK%5D+Connecting+APIs+%26+Automation...;%5BREADY%5D+Welcome+to+my+GitHub." alt="Typing SVG" />
 
 <br/>
 
