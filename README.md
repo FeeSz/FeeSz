@@ -1,59 +1,163 @@
 <div align="center">
-
-# Felype Souza
-
-### Backend Developer · Python · APIs · SQL
-
-Building reliable backend systems, automations and practical software solutions.
-
-<a href="https://github.com/FeeSz">
-  <img src="https://komarev.com/ghpvc/?username=FeeSz&style=flat&color=7C3AED&label=Profile+views" alt="Profile views" />
-</a>
-<a href="https://www.linkedin.com/in/felype-souza-4391353a2">
-  <img src="https://img.shields.io/badge/LinkedIn-Felype%20Souza-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
+  <img src="./assets/profile-hero.svg" width="100%" alt="Felype Souza — Backend-focused software developer" />
 </div>
+
+<br>
+
+<table>
+<tr>
+<td width="64%" valign="top">
+
+### Engineering software for the real world
+
+I’m a backend-focused developer and Information Systems student based in São Paulo.
+
+My background is unusual in a useful way: I develop software **and** work close to real production environments — machines, integrations, document workflows, users, failures and operational constraints. That makes me care about more than “making it work”.
+
+I care about **clear contracts, reliable data, maintainable code and systems that survive real use**.
+
+</td>
+<td width="36%" valign="top">
+
+```text
+CURRENT SIGNAL
+
+role      backend / software
+core      python · fastapi · sql
+data      postgresql · sqlalchemy
+runtime   docker · linux
+edge      react · typescript
+focus     APIs · automation · systems
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Selected work
+
+> Not a repository list. These are the projects that best represent how I think and build.
+
+### 01 / ItaSafety
+**B2B operational platform for safety equipment workflows**
+
+A product-oriented system involving catalog architecture, authentication, company flows, quotations, structured data and production-facing UI.
+
+`React 19` `TypeScript` `Supabase` `PostgreSQL` `Cloudflare Workers`
+
+**Engineering signal:** product structure, data modeling, frontend/backend integration and B2B workflow design.
+
+[View repository →](https://github.com/FeeSz/itasafety)
 
 ---
 
-## About
+### 02 / Insanos Manager API
+**Backend architecture focused on API design and persistence**
 
-I'm an Information Systems student and IT professional focused on **backend development**.
+A REST API built to deepen backend engineering fundamentals: domain boundaries, authentication, database integration, migrations, environment configuration and testing.
 
-I work mainly with **Python, FastAPI, Flask and relational databases**, building APIs, automations, data-processing tools and web applications. My technical-support background also gives me practical experience with production environments, hardware, integrations and real business workflows.
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Pytest`
+
+**Engineering signal:** backend architecture, relational persistence, API contracts and maintainability.
+
+[View repository →](https://github.com/FeeSz/manager)
+
+---
+
+### 03 / Excel to JSON
+**A real workflow turned into software**
+
+A data-processing application designed around spreadsheet ingestion, validation, normalization, job tracking and export — built from an actual operational need.
+
+`Python` `Flask` `SQLAlchemy` `Pandas` `OpenPyXL`
+
+**Engineering signal:** translating business pain into an internal tool with validation and repeatable processing.
+
+[View repository →](https://github.com/FeeSz/excel_to_json)
+
+---
+
+### 04 / BarberMap 3D
+**Interactive product experience with geospatial UI**
+
+A mapping interface combining search, custom markers, animation and a more ambitious frontend layer.
+
+`Next.js` `TypeScript` `MapLibre GL` `Framer Motion`
+
+**Engineering signal:** full-stack range, product thinking and technical curiosity beyond the backend.
+
+[View repository →](https://github.com/FeeSz/Map-barber)
+
+<br>
+
+## Technical profile
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Backend**
+
+Python  
+FastAPI  
+Flask  
+REST APIs  
+Authentication  
+SQLAlchemy / Alembic
+
+</td>
+<td width="33%" valign="top">
+
+**Data & Runtime**
+
+PostgreSQL  
+MySQL / MariaDB  
+SQLite  
+Docker  
+Redis  
+Linux
+
+</td>
+<td width="33%" valign="top">
+
+**Product Edge**
+
+TypeScript  
+React / Next.js  
+Supabase  
+Cloudflare  
+Postman  
+Git / GitHub
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## How I approach engineering
 
 ```text
-Focus: Backend Engineering · APIs · Databases · Automation
+01  understand the workflow before designing the software
+02  make data and contracts explicit
+03  prefer boring, maintainable solutions over fragile cleverness
+04  treat failures and edge cases as part of the product
+05  keep learning by shipping real systems
 ```
 
-## Stack
+<br>
 
-<div align="center">
+## Current direction
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,sqlite,docker,redis,git,github,linux,postman,ts,react,nextjs,supabase&perline=8&theme=dark" />
+I’m sharpening my backend engineering depth around **API architecture, PostgreSQL, authentication, testing, Docker and system design**, while continuing to build products that connect software with real operational problems.
 
-</div>
+My target is straightforward: **grow into a strong backend/software engineer by building systems with increasing responsibility and technical depth.**
 
-## Selected Projects
+<br>
 
-| Project | Description | Stack |
-|---|---|---|
-| **[ItaSafety](https://github.com/FeeSz/itasafety)** | B2B platform for EPI catalog, companies, quotations and operational workflows. | React · TypeScript · Supabase · PostgreSQL |
-| **[Insanos Manager API](https://github.com/FeeSz/manager)** | REST API focused on backend architecture, authentication, persistence and migrations. | Python · FastAPI · PostgreSQL · SQLAlchemy |
-| **[Excel to JSON](https://github.com/FeeSz/excel_to_json)** | Corporate data-processing application for validating, transforming and exporting spreadsheets. | Python · Flask · Pandas · OpenPyXL |
-| **[BarberMap 3D](https://github.com/FeeSz/Map-barber)** | Interactive map experience with search, custom markers and modern UI. | Next.js · TypeScript · MapLibre GL |
-
-## Currently
-
-```text
-> strengthening Python backend architecture
-> improving PostgreSQL, SQLAlchemy and API design
-> studying authentication, testing, Docker and system design
-> building software that solves real operational problems
-```
-
-## Contributions
+## Contribution trail
 
 <div align="center">
 
@@ -65,11 +169,13 @@ Focus: Backend Engineering · APIs · Databases · Automation
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-**São Paulo, Brazil · Open to Backend / Software Engineering opportunities**
+### Build software that earns trust.
+
+São Paulo, Brazil · Backend / Software Engineering
 
 [GitHub](https://github.com/FeeSz) · [LinkedIn](https://www.linkedin.com/in/felype-souza-4391353a2)
 
