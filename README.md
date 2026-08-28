@@ -1,34 +1,145 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Felype Souza — Backend-focused software developer" />
+
+Felype Souza
+
+Backend-focused software developer
+
+Python · FastAPI · PostgreSQL · APIs · Automation · Software Engineering
+
+São Paulo, Brazil
+
 </div>
 
 <br>
 
 <table>
 <tr>
-<td width="64%" valign="top">
+<td width="25%" align="center">
+<sub>CURRENT ROLE</sub><br><br>
+<b>IT Technician</b>
+</td>
+<td width="25%" align="center">
+<sub>DEGREE</sub><br><br>
+<b>Information Systems</b>
+</td>
+<td width="25%" align="center">
+<sub>ENGINEERING FOCUS</sub><br><br>
+<b>Backend Systems</b>
+</td>
+<td width="25%" align="center">
+<sub>BUILDING WITH</sub><br><br>
+<b>Python + SQL</b>
+</td>
+</tr>
+</table>
 
-### Engineering software for the real world
+<br>
 
-I’m a backend-focused developer and Information Systems student based in São Paulo.
+Profile
 
-My background is unusual in a useful way: I develop software **and** work close to real production environments — machines, integrations, document workflows, users, failures and operational constraints. That makes me care about more than “making it work”.
+I build software from the perspective of someone who also deals with real operational environments.
 
-I care about **clear contracts, reliable data, maintainable code and systems that survive real use**.
+My professional work puts me close to hardware, workstations, scanners, integrations, users and production failures. My development work turns that experience into APIs, internal tools, automation and data-driven applications.
+
+That combination shaped the way I think about software:
+
+A system is not finished when the happy path works. It is finished when its behavior is understandable, maintainable and reliable under real use.
+
+<br>
+
+Selected engineering work
+
+<table>
+<tr>
+<td width="8%" valign="top"><h3>01</h3></td>
+<td width="92%" valign="top">
+
+ItaSafety — B2B safety equipment platform
+
+A product-oriented platform designed around catalog structure, company workflows, quotations, authentication and operational data.
+
+Context
+Building a system that must organize a real commercial workflow instead of behaving like a static catalog.
+
+Engineering work
+Product architecture, relational data, authentication flows, frontend/backend integration and production-oriented interface decisions.
+
+Stack
+React 19 TypeScript Supabase PostgreSQL Cloudflare Workers
+
+Repository →
 
 </td>
-<td width="36%" valign="top">
+</tr>
+</table>
 
-```text
-CURRENT SIGNAL
+<table>
+<tr>
+<td width="8%" valign="top"><h3>02</h3></td>
+<td width="92%" valign="top">
 
-role      backend / software
-core      python · fastapi · sql
-data      postgresql · sqlalchemy
-runtime   docker · linux
-edge      react · typescript
-focus     APIs · automation · systems
-```
+Insanos Manager API — Backend architecture
+
+A REST API project focused on strengthening the fundamentals behind maintainable backend systems.
+
+Context
+Moving beyond endpoint creation into application structure, persistence, migrations, configuration and testability.
+
+Engineering work
+API contracts, database integration, authentication, relational persistence, migrations and backend organization.
+
+Stack
+Python FastAPI PostgreSQL SQLAlchemy Alembic Pytest
+
+Repository →
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="8%" valign="top"><h3>03</h3></td>
+<td width="92%" valign="top">
+
+Excel to JSON — Operational workflow automation
+
+An internal application created around a practical data-processing problem involving spreadsheets.
+
+Context
+Transforming repetitive spreadsheet handling into a controlled and repeatable application workflow.
+
+Engineering work
+File ingestion, validation, normalization, authentication, processing history and structured JSON export.
+
+Stack
+Python Flask SQLAlchemy Pandas OpenPyXL
+
+Repository →
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="8%" valign="top"><h3>04</h3></td>
+<td width="92%" valign="top">
+
+BarberMap 3D — Interactive geospatial product
+
+A map-driven interface built to explore richer product interaction outside my primary backend focus.
+
+Context
+Combining geospatial data, search, custom markers and motion into a usable interface.
+
+Engineering work
+Interactive map behavior, application state, UI architecture and modern frontend interaction.
+
+Stack
+Next.js TypeScript MapLibre GL Framer Motion
+
+Repository →
 
 </td>
 </tr>
@@ -36,99 +147,44 @@ focus     APIs · automation · systems
 
 <br>
 
-## Selected work
-
-> Not a repository list. These are the projects that best represent how I think and build.
-
-### 01 / ItaSafety
-**B2B operational platform for safety equipment workflows**
-
-A product-oriented system involving catalog architecture, authentication, company flows, quotations, structured data and production-facing UI.
-
-`React 19` `TypeScript` `Supabase` `PostgreSQL` `Cloudflare Workers`
-
-**Engineering signal:** product structure, data modeling, frontend/backend integration and B2B workflow design.
-
-[View repository →](https://github.com/FeeSz/itasafety)
-
----
-
-### 02 / Insanos Manager API
-**Backend architecture focused on API design and persistence**
-
-A REST API built to deepen backend engineering fundamentals: domain boundaries, authentication, database integration, migrations, environment configuration and testing.
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Pytest`
-
-**Engineering signal:** backend architecture, relational persistence, API contracts and maintainability.
-
-[View repository →](https://github.com/FeeSz/manager)
-
----
-
-### 03 / Excel to JSON
-**A real workflow turned into software**
-
-A data-processing application designed around spreadsheet ingestion, validation, normalization, job tracking and export — built from an actual operational need.
-
-`Python` `Flask` `SQLAlchemy` `Pandas` `OpenPyXL`
-
-**Engineering signal:** translating business pain into an internal tool with validation and repeatable processing.
-
-[View repository →](https://github.com/FeeSz/excel_to_json)
-
----
-
-### 04 / BarberMap 3D
-**Interactive product experience with geospatial UI**
-
-A mapping interface combining search, custom markers, animation and a more ambitious frontend layer.
-
-`Next.js` `TypeScript` `MapLibre GL` `Framer Motion`
-
-**Engineering signal:** full-stack range, product thinking and technical curiosity beyond the backend.
-
-[View repository →](https://github.com/FeeSz/Map-barber)
-
-<br>
-
-## Technical profile
+Engineering profile
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**Backend**
+Backend
 
-Python  
-FastAPI  
-Flask  
-REST APIs  
-Authentication  
-SQLAlchemy / Alembic
+Python
+FastAPI
+Flask
+REST APIs
+Authentication
+SQLAlchemy
+Alembic
 
 </td>
 <td width="33%" valign="top">
 
-**Data & Runtime**
+Data & Runtime
 
-PostgreSQL  
-MySQL / MariaDB  
-SQLite  
-Docker  
-Redis  
+PostgreSQL
+MySQL / MariaDB
+SQLite
+Docker
+Redis
 Linux
 
 </td>
 <td width="33%" valign="top">
 
-**Product Edge**
+Product & Integration
 
-TypeScript  
-React / Next.js  
-Supabase  
-Cloudflare  
-Postman  
+TypeScript
+React / Next.js
+Supabase
+Cloudflare
+Postman
 Git / GitHub
 
 </td>
@@ -137,27 +193,84 @@ Git / GitHub
 
 <br>
 
-## How I approach engineering
+How I think about software
 
-```text
-01  understand the workflow before designing the software
-02  make data and contracts explicit
-03  prefer boring, maintainable solutions over fragile cleverness
-04  treat failures and edge cases as part of the product
-05  keep learning by shipping real systems
-```
-
-<br>
-
-## Current direction
-
-I’m sharpening my backend engineering depth around **API architecture, PostgreSQL, authentication, testing, Docker and system design**, while continuing to build products that connect software with real operational problems.
-
-My target is straightforward: **grow into a strong backend/software engineer by building systems with increasing responsibility and technical depth.**
+01 / understand the workflow before modeling the system
+02 / make contracts and data ownership explicit
+03 / design failure paths, not only happy paths
+04 / optimize for clarity before cleverness
+05 / automate repetitive operational work
+06 / keep architecture proportional to the problem
 
 <br>
 
-## Contribution trail
+Current trajectory
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Deepening
+
+Backend architecture with Python
+
+API design and authentication
+
+PostgreSQL and relational modeling
+
+SQLAlchemy and migrations
+
+Automated testing
+
+Docker and deployment fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+Expanding
+
+System design
+
+Observability
+
+CI/CD
+
+Cloud infrastructure
+
+Distributed-system fundamentals
+
+Production engineering practices
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+<summary><b>Full technical toolbox</b></summary>
+<br>
+
+Languages
+Python · Java · JavaScript · TypeScript · SQL
+
+Backend & Data
+FastAPI · Flask · SQLAlchemy · Alembic · PostgreSQL · MySQL · MariaDB · SQLite · Redis
+
+Frontend
+React · Next.js · Tailwind CSS · TanStack Query · Framer Motion · MapLibre GL
+
+Infrastructure & Tools
+Docker · Linux · Git · GitHub · Postman · Cloudflare Workers · Supabase · n8n
+
+Data processing
+Pandas · OpenPyXL
+
+</details>
+
+<br>
+
+Contribution trail
 
 <div align="center">
 
@@ -173,10 +286,10 @@ My target is straightforward: **grow into a strong backend/software engineer by 
 
 <div align="center">
 
-### Build software that earns trust.
+Software should make complexity easier to operate.
 
-São Paulo, Brazil · Backend / Software Engineering
+Backend · Systems · Automation
 
-[GitHub](https://github.com/FeeSz) · [LinkedIn](https://www.linkedin.com/in/felype-souza-4391353a2)
+GitHub · LinkedIn
 
 </div>
