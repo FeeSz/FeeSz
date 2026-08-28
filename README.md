@@ -1,100 +1,172 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=550&color=00E5FF&background=0D1117&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%5BBOOT%5D+Initializing+Felype.exe...;%5BOK%5D+Loading+Full+Stack+Modules...;%5BOK%5D+Mounting+Python+%7C+FastAPI+%7C+SQL...;%5BOK%5D+Connecting+APIs+%26+Automation...;%5BREADY%5D+Welcome+to+my+GitHub." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1200&pause=550&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%5BBOOT%5D+Initializing+Felype.exe...;%5BOK%5D+Loading+Full+Stack+Modules...;%5BOK%5D+Mounting+Python+%7C+FastAPI+%7C+SQL...;%5BREADY%5D+Welcome+to+my+GitHub."
+    alt="Felype boot animation"
+  />
 </p>
 
 <h1 align="center">Felype Souza</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · Python & Backend · React & TypeScript · IT Professional</strong>
+  <strong>Backend-first Full Stack Developer</strong><br>
+  <sub>Python · FastAPI · PostgreSQL · React · TypeScript</sub>
 </p>
 
 <p align="center">
-  Building real applications with backend-first thinking, reliable data and practical problem solving.
+  Construo aplicações reais, APIs e automações com foco em código claro, dados confiáveis e produto.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/felype-souza-4391353a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:felypelopes7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <br>
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+  <sub>ATUAÇÃO</sub><br>
+  <b>TI & Sustentação</b>
+</td>
+<td align="center" width="33%">
+  <sub>FORMAÇÃO</sub><br>
+  <b>Sistemas de Informação</b>
+</td>
+<td align="center" width="33%">
+  <sub>FOCO</sub><br>
+  <b>Backend & Full Stack</b>
+</td>
+</tr>
+</table>
 
-
-
-
-
-</div>
-
-Sobre mim
-
-Sou estudante de Sistemas de Informação na Universidade São Judas Tadeu (USJT), Técnico em Informática pelo Colégio Victorino e atualmente atuo como Técnico de TI na InfoDoc — Gestão Documental, com foco em suporte, sustentação de sistemas e diagnóstico de incidentes em ambiente corporativo.
-
-No desenvolvimento, construo aplicações full stack com foco maior em backend, trabalhando principalmente com Python, Flask, FastAPI, SQL e APIs, além de React e TypeScript no frontend.
-
-Minha experiência profissional com troubleshooting, integrações, estações de trabalho, scanners e sistemas em produção influencia diretamente a forma como desenvolvo: busco transformar problemas reais em soluções claras, confiáveis e fáceis de manter.
-
-Objetivo atual: oportunidade como Desenvolvedor Full Stack Júnior / Backend Python.
+<br>
 
 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,ts,react,nextjs,html,css,tailwind,postgres,mysql,supabase,sqlite,docker,git,github,linux,bash&perline=18&theme=dark" alt="Tech stack" />
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,docker,redis,linux,git,ts,react,nextjs,supabase,cloudflare&perline=14&theme=dark"
+    alt="Tech stack"
+  />
 </p>
 
-<p align="center">
-  <sub>
-    Backend & APIs&nbsp;&nbsp;•&nbsp;&nbsp;
-    Frontend&nbsp;&nbsp;•&nbsp;&nbsp;
-    Bancos de Dados&nbsp;&nbsp;•&nbsp;&nbsp;
-    Infraestrutura & Ferramentas
-  </sub>
-</p>
+<br>
 
-Projetos em destaque
+Projetos selecionados
 
-Projeto
+<table>
+<tr>
+<td width="50%" valign="top">
 
-O que demonstra
+🛡️ ItaSafety
 
-Stack
+Plataforma B2B para catálogo, autenticação, cotações e fluxos de EPIs.
 
-ItaSafety
+React TypeScript Supabase PostgreSQL
 
-Plataforma B2B para EPIs com catálogo, filtros, carrinho, autenticação, cotações e integrações de backend. Deploy →
+Repositório · Deploy
 
-React 19 · TypeScript · TanStack Start · Tailwind CSS · Supabase · Cloudflare Workers
+</td>
+<td width="50%" valign="top">
 
-Excel to JSON
+📊 Excel to JSON
 
-Automação de processamento de planilhas com upload autenticado, validação, normalização, controle de jobs, histórico e exportação estruturada.
+Automação corporativa para validar, normalizar e processar planilhas em JSON.
 
-Python · Flask · SQLAlchemy · Pandas · OpenPyXL · PostgreSQL
+Python Flask SQLAlchemy Pandas
 
-Map-barber
+Repositório
 
-Aplicação com mapa interativo e experiência moderna voltada ao contexto de barbearias e localização.
+</td>
+</tr>
 
-Next.js · TypeScript · MapLibre GL
+<tr>
+<td width="50%" valign="top">
 
-Em foco agora
+⚙️ Manager API
 
-> evoluindo o ItaSafety com novas integrações, performance e UX
-> expandindo fluxos e processamento do Excel to JSON
-> aprofundando arquitetura backend com Python, FastAPI e SQL
-> aplicando troubleshooting e sustentação em ambiente corporativo real
-> avançando em Docker, testes, autenticação e modelagem de dados
+API REST com persistência relacional, migrations e arquitetura backend.
 
-Contribuições
+Python FastAPI PostgreSQL Alembic
+
+Repositório
+
+</td>
+<td width="50%" valign="top">
+
+🗺️ BarberMap
+
+Experiência de mapa interativo com busca, localização e UI moderna.
+
+Next.js TypeScript MapLibre GL
+
+Repositório
+
+</td>
+</tr>
+</table>
+
+<br>
+
+Agora
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+Backend
+FastAPI, arquitetura de APIs e autenticação.
+
+</td>
+<td width="33%" valign="top">
+
+Dados
+PostgreSQL, SQLAlchemy e modelagem relacional.
+
+</td>
+<td width="33%" valign="top">
+
+Engenharia
+Docker, testes e práticas de produção.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+<summary><b>Contribution activity</b></summary>
+<br>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake-dark.svg"
+    >
   </picture>
 </p>
 
-<p align="center">
-  <strong>Backend, sistemas e automação para resolver problemas reais.</strong>
-</p>
+</details>
+
+<br>
 
 <p align="center">
-  São Paulo, Brasil
+  <b>Open to Backend / Full Stack Junior opportunities.</b><br>
+  <sub>São Paulo, Brasil</sub>
 </p>
