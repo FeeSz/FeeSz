@@ -84,16 +84,4 @@ Trabalho profissionalmente com sustentação de sistemas, diagnóstico de incide
 - 💼 Aplicando sustentação de sistemas e troubleshooting real em ambiente corporativo (InfoDoc)
 - 🐍 Aprofundando backend com Flask e modelagem de dados
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=FeeSz&theme=transparent&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=FeeSz&theme=transparent&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FeeSz&theme=transparent&layout=compact&hide_border=true)
-
-</div>
