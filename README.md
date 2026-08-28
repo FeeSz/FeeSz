@@ -1,14 +1,13 @@
-<h1 align="center">👨‍💻 Felype Souza<
+<h1 align="center">👨‍💻 Felype Souza</h1>
 
+<h3 align="center">
   Full Stack Developer. • Python & Backend • React & TypeScript • IT Professional
-                                   </h1>
-
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer.;Python+%26+Backend+Development;React+%2B+TypeScript;Suporte+e+Sustenta%C3%A7%C3%A3o+de+Sistemas;Construindo+aplica%C3%A7%C3%B5es+reais" />
 </p>
 
----
 
 ## 👨‍💻 Sobre mim
 
@@ -24,7 +23,6 @@
 
 Trabalho profissionalmente com sustentação de sistemas, diagnóstico de incidentes e uso essa mesma disciplina de resolução de problemas reais para construir os projetos abaixo.
 
----
 
 ## 🌐 Conecte-se comigo
 
