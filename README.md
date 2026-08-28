@@ -23,8 +23,8 @@
 
 Trabalho profissionalmente com sustentação de sistemas, diagnóstico de incidentes e uso essa mesma disciplina de resolução de problemas reais para construir os projetos abaixo.
 
-
-## 🌐 Conecte-se comigo
+---
+# 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felype-souza-4391353a2/">
