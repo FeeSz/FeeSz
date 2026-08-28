@@ -1,100 +1,100 @@
-<h1 align="center">👨‍💻 Felype Souza</h1>
-
-<h3 align="center">
-Full Stack Developer. • Python & Backend • React & TypeScript • IT Professional
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer.;Python+%26+Backend+Development;React+%2B+TypeScript;Suporte+e+Sustenta%C3%A7%C3%A3o+de+Sistemas;Construindo+aplica%C3%A7%C3%B5es+reais" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=550&color=00E5FF&background=0D1117&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%5BBOOT%5D+Initializing+Felype.exe...;%5BOK%5D+Loading+Full+Stack+Modules...;%5BOK%5D+Mounting+Python+%7C+FastAPI+%7C+SQL...;%5BOK%5D+Connecting+APIs+%26+Automation...;%5BREADY%5D+Welcome+to+my+GitHub." alt="Typing SVG" />
 </p>
 
----
-
-## 👨‍💻 Sobre mim
-
-🎓 Estudante de Sistemas de Informação — Universidade São Judas Tadeu (USJT)
-
-🖥️ Técnico em Informática — Colégio Victorino
-
-💼 Técnico de TI — Suporte e Sustentação de Sistemas na InfoDoc - Gestão Documental
-💼 Técnico de TI — Sustentação de Sistemas na Infodoc Gestão Documental
-
-🚀 Desenvolvo aplicações full stack com Python/Flask/FastAPI no backend e React/TypeScript no frontend
-
-🎯 Objetivo: Desenvolvedor Full Stack Júnior / Backend Python
-
-Trabalho profissionalmente com sustentação de sistemas, diagnóstico de incidentes e uso essa mesma disciplina de resolução de problemas reais para construir os projetos abaixo.
-
----
-
-## 🌐 Conecte-se comigo
+<h1 align="center">Felype Souza</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/felype-souza-4391353a2/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:felypelopes7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <strong>Full Stack Developer · Python & Backend · React & TypeScript · IT Professional</strong>
 </p>
-
----
-
-## 💻 Stack
-
-### 🐍 Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
+  Building real applications with backend-first thinking, reliable data and practical problem solving.
 </p>
 
-### 🌐 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### 🗄️ Banco de Dados
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,sqlite" />
-</p>
-
-### ⚙️ Ferramentas & Infraestrutura
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,bash,linux,windows" />
-</p>
-
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🛡️ **[ItaSafety](https://github.com/FeeSz/itasafety)** | Plataforma web para EPIs — catálogo, filtros, carrinho, autenticação e integrações de backend. [🔗 Deploy ao vivo](https://itasafety.felypelopes7.workers.dev/) | React 19 · TypeScript · TanStack Start · Tailwind CSS · Supabase · Cloudflare Workers |
-| 📊 **[Excel to JSON](https://github.com/FeeSz/excel_to_json)** | Automação de processamento de planilhas Excel: upload autenticado, validação de layout, normalização de dados e conversão estruturada para JSON, com controle de jobs e histórico. | Python · Flask · SQLAlchemy · Pandas · OpenPyXL · PostgreSQL |
-| ✂️ **[Map-barber](https://github.com/FeeSz/Map-barber)** | Plataforma de agendamento para barbearias com mapa interativo. | TypeScript |
-
----
-
-## 🎯 Em foco agora
-
-- 🛡️ Evoluindo o **ItaSafety** — performance, UX e novas integrações de backend
-- 📊 Expandindo o **Excel to JSON** — novos layouts de planilha e processamento assíncrono
-- 💼 Aplicando sustentação de sistemas e troubleshooting real em ambiente corporativo (InfoDoc)
-- 🐍 Aprofundando backend com Flask e modelagem de dados
-
----
-
-## 📊 Estatísticas do GitHub
+<br>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=FeeSz&theme=transparent&show_icons=true&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=FeeSz&theme=transparent&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FeeSz&theme=transparent&layout=compact&hide_border=true)
+
 
 </div>
+
+Sobre mim
+
+Sou estudante de Sistemas de Informação na Universidade São Judas Tadeu (USJT), Técnico em Informática pelo Colégio Victorino e atualmente atuo como Técnico de TI na InfoDoc — Gestão Documental, com foco em suporte, sustentação de sistemas e diagnóstico de incidentes em ambiente corporativo.
+
+No desenvolvimento, construo aplicações full stack com foco maior em backend, trabalhando principalmente com Python, Flask, FastAPI, SQL e APIs, além de React e TypeScript no frontend.
+
+Minha experiência profissional com troubleshooting, integrações, estações de trabalho, scanners e sistemas em produção influencia diretamente a forma como desenvolvo: busco transformar problemas reais em soluções claras, confiáveis e fáceis de manter.
+
+Objetivo atual: oportunidade como Desenvolvedor Full Stack Júnior / Backend Python.
+
+Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,ts,react,nextjs,html,css,tailwind,postgres,mysql,supabase,sqlite,docker,git,github,linux,bash&perline=18&theme=dark" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <sub>
+    Backend & APIs&nbsp;&nbsp;•&nbsp;&nbsp;
+    Frontend&nbsp;&nbsp;•&nbsp;&nbsp;
+    Bancos de Dados&nbsp;&nbsp;•&nbsp;&nbsp;
+    Infraestrutura & Ferramentas
+  </sub>
+</p>
+
+Projetos em destaque
+
+Projeto
+
+O que demonstra
+
+Stack
+
+ItaSafety
+
+Plataforma B2B para EPIs com catálogo, filtros, carrinho, autenticação, cotações e integrações de backend. Deploy →
+
+React 19 · TypeScript · TanStack Start · Tailwind CSS · Supabase · Cloudflare Workers
+
+Excel to JSON
+
+Automação de processamento de planilhas com upload autenticado, validação, normalização, controle de jobs, histórico e exportação estruturada.
+
+Python · Flask · SQLAlchemy · Pandas · OpenPyXL · PostgreSQL
+
+Map-barber
+
+Aplicação com mapa interativo e experiência moderna voltada ao contexto de barbearias e localização.
+
+Next.js · TypeScript · MapLibre GL
+
+Em foco agora
+
+> evoluindo o ItaSafety com novas integrações, performance e UX
+> expandindo fluxos e processamento do Excel to JSON
+> aprofundando arquitetura backend com Python, FastAPI e SQL
+> aplicando troubleshooting e sustentação em ambiente corporativo real
+> avançando em Docker, testes, autenticação e modelagem de dados
+
+Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <strong>Backend, sistemas e automação para resolver problemas reais.</strong>
+</p>
+
+<p align="center">
+  São Paulo, Brasil
+</p>
