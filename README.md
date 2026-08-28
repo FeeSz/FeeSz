@@ -1,295 +1,95 @@
-<div align="center">
+<h1 align="center">👨‍💻 Felype Souza</h1>
 
-Felype Souza
+<h3 align="center">
+  Full Stack Developer Jr. • Python & Backend • React & TypeScript • IT Professional
+</h3>
 
-Backend-focused software developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+Jr.;Python+%26+Backend+Development;React+%2B+TypeScript;Suporte+e+Sustenta%C3%A7%C3%A3o+de+Sistemas;Construindo+aplica%C3%A7%C3%B5es+reais" />
+</p>
 
-Python · FastAPI · PostgreSQL · APIs · Automation · Software Engineering
+---
 
-São Paulo, Brazil
+## 👨‍💻 Sobre mim
 
-</div>
+🎓 Estudante de Sistemas de Informação — Universidade São Judas Tadeu (USJT)
+🖥️ Técnico em Informática — Colégio Victorino
+💼 Técnico de TI — Suporte e Sustentação de Sistemas na InfoDoc - Gestão Documental
+🚀 Desenvolvo aplicações full stack com Python/Flask/FastAPI no backend e React/TypeScript no frontend
+🎯 Objetivo: Desenvolvedor Full Stack Júnior / Backend Python
 
-<br>
+Trabalho profissionalmente com sustentação de sistemas, diagnóstico de incidentes e suporte técnico corporativo — e uso essa mesma disciplina de resolução de problemas reais para construir os projetos abaixo.
 
-<table>
-<tr>
-<td width="25%" align="center">
-<sub>CURRENT ROLE</sub><br><br>
-<b>IT Technician</b>
-</td>
-<td width="25%" align="center">
-<sub>DEGREE</sub><br><br>
-<b>Information Systems</b>
-</td>
-<td width="25%" align="center">
-<sub>ENGINEERING FOCUS</sub><br><br>
-<b>Backend Systems</b>
-</td>
-<td width="25%" align="center">
-<sub>BUILDING WITH</sub><br><br>
-<b>Python + SQL</b>
-</td>
-</tr>
-</table>
+---
 
-<br>
+## 🌐 Conecte-se comigo
 
-Profile
+<p align="center">
+  <a href="https://www.linkedin.com/in/felype-souza-4391353a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:felypelopes7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-I build software from the perspective of someone who also deals with real operational environments.
+---
 
-My professional work puts me close to hardware, workstations, scanners, integrations, users and production failures. My development work turns that experience into APIs, internal tools, automation and data-driven applications.
+## 💻 Stack
 
-That combination shaped the way I think about software:
+### 🐍 Backend
 
-A system is not finished when the happy path works. It is finished when its behavior is understandable, maintainable and reliable under real use.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
+</p>
 
-<br>
+### 🌐 Frontend
 
-Selected engineering work
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-<table>
-<tr>
-<td width="8%" valign="top"><h3>01</h3></td>
-<td width="92%" valign="top">
+### 🗄️ Banco de Dados
 
-ItaSafety — B2B safety equipment platform
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,sqlite" />
+</p>
 
-A product-oriented platform designed around catalog structure, company workflows, quotations, authentication and operational data.
+### ⚙️ Ferramentas & Infraestrutura
 
-Context
-Building a system that must organize a real commercial workflow instead of behaving like a static catalog.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,bash,linux,windows" />
+</p>
 
-Engineering work
-Product architecture, relational data, authentication flows, frontend/backend integration and production-oriented interface decisions.
+---
 
-Stack
-React 19 TypeScript Supabase PostgreSQL Cloudflare Workers
+## 🚀 Projetos em destaque
 
-Repository →
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🛡️ **[ItaSafety](https://github.com/FeeSz/itasafety)** | Plataforma web para EPIs — catálogo, filtros, carrinho, autenticação e integrações de backend. [🔗 Deploy ao vivo](https://itasafety.felypelopes7.workers.dev/) | React 19 · TypeScript · TanStack Start · Tailwind CSS · Supabase · Cloudflare Workers |
+| 📊 **[Excel to JSON Converter](https://github.com/FeeSz/excel_to_json)** | Automação de processamento de planilhas Excel: upload autenticado, validação de layout, normalização de dados e conversão estruturada para JSON, com controle de jobs e histórico. | Python · Flask · SQLAlchemy · Pandas · OpenPyXL · PostgreSQL |
+| ✂️ **[Map-barber](https://github.com/FeeSz/Map-barber)** | Plataforma de agendamento para barbearias com mapa interativo. | TypeScript |
 
-</td>
-</tr>
-</table>
+---
 
-<table>
-<tr>
-<td width="8%" valign="top"><h3>02</h3></td>
-<td width="92%" valign="top">
+## 🎯 Em foco agora
 
-Insanos Manager API — Backend architecture
+- 🛡️ Evoluindo o **ItaSafety** — performance, UX e novas integrações de backend
+- 📊 Expandindo o **Excel to JSON** — novos layouts de planilha e processamento assíncrono
+- 💼 Aplicando sustentação de sistemas e troubleshooting real em ambiente corporativo (InfoDoc)
+- 🐍 Aprofundando backend com FastAPI e modelagem de dados
 
-A REST API project focused on strengthening the fundamentals behind maintainable backend systems.
+---
 
-Context
-Moving beyond endpoint creation into application structure, persistence, migrations, configuration and testability.
-
-Engineering work
-API contracts, database integration, authentication, relational persistence, migrations and backend organization.
-
-Stack
-Python FastAPI PostgreSQL SQLAlchemy Alembic Pytest
-
-Repository →
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="8%" valign="top"><h3>03</h3></td>
-<td width="92%" valign="top">
-
-Excel to JSON — Operational workflow automation
-
-An internal application created around a practical data-processing problem involving spreadsheets.
-
-Context
-Transforming repetitive spreadsheet handling into a controlled and repeatable application workflow.
-
-Engineering work
-File ingestion, validation, normalization, authentication, processing history and structured JSON export.
-
-Stack
-Python Flask SQLAlchemy Pandas OpenPyXL
-
-Repository →
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="8%" valign="top"><h3>04</h3></td>
-<td width="92%" valign="top">
-
-BarberMap 3D — Interactive geospatial product
-
-A map-driven interface built to explore richer product interaction outside my primary backend focus.
-
-Context
-Combining geospatial data, search, custom markers and motion into a usable interface.
-
-Engineering work
-Interactive map behavior, application state, UI architecture and modern frontend interaction.
-
-Stack
-Next.js TypeScript MapLibre GL Framer Motion
-
-Repository →
-
-</td>
-</tr>
-</table>
-
-<br>
-
-Engineering profile
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-Backend
-
-Python
-FastAPI
-Flask
-REST APIs
-Authentication
-SQLAlchemy
-Alembic
-
-</td>
-<td width="33%" valign="top">
-
-Data & Runtime
-
-PostgreSQL
-MySQL / MariaDB
-SQLite
-Docker
-Redis
-Linux
-
-</td>
-<td width="33%" valign="top">
-
-Product & Integration
-
-TypeScript
-React / Next.js
-Supabase
-Cloudflare
-Postman
-Git / GitHub
-
-</td>
-</tr>
-</table>
-
-<br>
-
-How I think about software
-
-01 / understand the workflow before modeling the system
-02 / make contracts and data ownership explicit
-03 / design failure paths, not only happy paths
-04 / optimize for clarity before cleverness
-05 / automate repetitive operational work
-06 / keep architecture proportional to the problem
-
-<br>
-
-Current trajectory
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-Deepening
-
-Backend architecture with Python
-
-API design and authentication
-
-PostgreSQL and relational modeling
-
-SQLAlchemy and migrations
-
-Automated testing
-
-Docker and deployment fundamentals
-
-</td>
-<td width="50%" valign="top">
-
-Expanding
-
-System design
-
-Observability
-
-CI/CD
-
-Cloud infrastructure
-
-Distributed-system fundamentals
-
-Production engineering practices
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<details>
-<summary><b>Full technical toolbox</b></summary>
-<br>
-
-Languages
-Python · Java · JavaScript · TypeScript · SQL
-
-Backend & Data
-FastAPI · Flask · SQLAlchemy · Alembic · PostgreSQL · MySQL · MariaDB · SQLite · Redis
-
-Frontend
-React · Next.js · Tailwind CSS · TanStack Query · Framer Motion · MapLibre GL
-
-Infrastructure & Tools
-Docker · Linux · Git · GitHub · Postman · Cloudflare Workers · Supabase · n8n
-
-Data processing
-Pandas · OpenPyXL
-
-</details>
-
-<br>
-
-Contribution trail
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake-dark.svg">
-</picture>
+![](https://github-readme-stats.vercel.app/api?username=FeeSz&theme=transparent&show_icons=true&hide_border=true)
 
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FeeSz&theme=transparent&hide_border=true)
 
-<br>
-
-<div align="center">
-
-Software should make complexity easier to operate.
-
-Backend · Systems · Automation
-
-GitHub · LinkedIn
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FeeSz&theme=transparent&layout=compact&hide_border=true)
 
 </div>
