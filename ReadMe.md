@@ -2,7 +2,7 @@
 
 # Felype Souza
 
-## Backend Developer · Python · APIs · SQL
+### Backend Developer · Python · APIs · SQL
 
 Building reliable backend systems, automations and practical software solutions.
 
