@@ -1,172 +1,99 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1200&pause=550&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%5BBOOT%5D+Initializing+Felype.exe...;%5BOK%5D+Loading+Full+Stack+Modules...;%5BOK%5D+Mounting+Python+%7C+FastAPI+%7C+SQL...;%5BREADY%5D+Welcome+to+my+GitHub."
-    alt="Felype boot animation"
-  />
-</p>
+<h1 align="center">👨‍💻 Felype Souza</h1>
 
-<h1 align="center">Felype Souza</h1>
+<h3 align="center">
+  Full Stack Developer. • Python & Backend • React & TypeScript • IT Professional
+</h3>
 
 <p align="center">
-  <strong>Backend-first Full Stack Developer</strong><br>
-  <sub>Python · FastAPI · PostgreSQL · React · TypeScript</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer.;Python+%26+Backend+Development;React+%2B+TypeScript;Suporte+e+Sustenta%C3%A7%C3%A3o+de+Sistemas;Construindo+aplica%C3%A7%C3%B5es+reais" />
 </p>
 
-<p align="center">
-  Construo aplicações reais, APIs e automações com foco em código claro, dados confiáveis e produto.
-</p>
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de Sistemas de Informação — Universidade São Judas Tadeu (USJT)
+
+🖥️ Técnico em Informática — Colégio Victorino
+
+💼 Técnico de TI — Sustentação de Sistemas na Infodoc Gestão Documental
+
+🚀 Desenvolvo aplicações full stack com Python/Flask/FastAPI no backend e React/TypeScript no frontend
+
+🎯 Objetivo: Desenvolvedor Full Stack Júnior / Backend Python
+
+Trabalho profissionalmente com sustentação de sistemas, diagnóstico de incidentes e uso essa mesma disciplina de resolução de problemas reais para construir os projetos abaixo.
+
+---
+
+## 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felype-souza-4391353a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:felypelopes7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<br>
+---
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <sub>ATUAÇÃO</sub><br>
-  <b>TI & Sustentação</b>
-</td>
-<td align="center" width="33%">
-  <sub>FORMAÇÃO</sub><br>
-  <b>Sistemas de Informação</b>
-</td>
-<td align="center" width="33%">
-  <sub>FOCO</sub><br>
-  <b>Backend & Full Stack</b>
-</td>
-</tr>
-</table>
+## 💻 Stack
 
-<br>
-
-Stack
+### 🐍 Backend
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,docker,redis,linux,git,ts,react,nextjs,supabase,cloudflare&perline=14&theme=dark"
-    alt="Tech stack"
-  />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
 </p>
 
-<br>
-
-Projetos selecionados
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🛡️ ItaSafety
-
-Plataforma B2B para catálogo, autenticação, cotações e fluxos de EPIs.
-
-React TypeScript Supabase PostgreSQL
-
-Repositório · Deploy
-
-</td>
-<td width="50%" valign="top">
-
-📊 Excel to JSON
-
-Automação corporativa para validar, normalizar e processar planilhas em JSON.
-
-Python Flask SQLAlchemy Pandas
-
-Repositório
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-⚙️ Manager API
-
-API REST com persistência relacional, migrations e arquitetura backend.
-
-Python FastAPI PostgreSQL Alembic
-
-Repositório
-
-</td>
-<td width="50%" valign="top">
-
-🗺️ BarberMap
-
-Experiência de mapa interativo com busca, localização e UI moderna.
-
-Next.js TypeScript MapLibre GL
-
-Repositório
-
-</td>
-</tr>
-</table>
-
-<br>
-
-Agora
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-Backend
-FastAPI, arquitetura de APIs e autenticação.
-
-</td>
-<td width="33%" valign="top">
-
-Dados
-PostgreSQL, SQLAlchemy e modelagem relacional.
-
-</td>
-<td width="33%" valign="top">
-
-Engenharia
-Docker, testes e práticas de produção.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<details>
-<summary><b>Contribution activity</b></summary>
-<br>
+### 🌐 Frontend
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake.svg"
-    >
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/FeeSz/FeeSz/output/github-contribution-grid-snake-dark.svg"
-    >
-  </picture>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-</details>
-
-<br>
+### 🗄️ Banco de Dados
 
 <p align="center">
-  <b>Open to Backend / Full Stack Junior opportunities.</b><br>
-  <sub>São Paulo, Brasil</sub>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,sqlite" />
 </p>
+
+### ⚙️ Ferramentas & Infraestrutura
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,bash,linux,windows" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🛡️ **[ItaSafety](https://github.com/FeeSz/itasafety)** | Plataforma web para EPIs — catálogo, filtros, carrinho, autenticação e integrações de backend. [🔗 Deploy ao vivo](https://itasafety.felypelopes7.workers.dev/) | React 19 · TypeScript · TanStack Start · Tailwind CSS · Supabase · Cloudflare Workers |
+| 📊 **[Excel to JSON](https://github.com/FeeSz/excel_to_json)** | Automação de processamento de planilhas Excel: upload autenticado, validação de layout, normalização de dados e conversão estruturada para JSON, com controle de jobs e histórico. | Python · Flask · SQLAlchemy · Pandas · OpenPyXL · PostgreSQL |
+| ✂️ **[Map-barber](https://github.com/FeeSz/Map-barber)** | Plataforma de agendamento para barbearias com mapa interativo. | TypeScript |
+
+---
+
+## 🎯 Em foco agora
+
+- 🛡️ Evoluindo o **ItaSafety** — performance, UX e novas integrações de backend
+- 📊 Expandindo o **Excel to JSON** — novos layouts de planilha e processamento assíncrono
+- 💼 Aplicando sustentação de sistemas e troubleshooting real em ambiente corporativo (InfoDoc)
+- 🐍 Aprofundando backend com Flask e modelagem de dados
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=FeeSz&theme=transparent&show_icons=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=FeeSz&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FeeSz&theme=transparent&layout=compact&hide_border=true)
+
+</div>
