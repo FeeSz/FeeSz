@@ -14,7 +14,7 @@
 
 🖥️ Técnico em Informática — **Colégio Victorino**
 
-💼 Técnico de TI — Sustentação de Sistemas na **Infodoc**
+💼 Técnico de TI — Sustentação de Sistemas na **Infordoc**
 
 🚀 Desenvolvo aplicações full stack com Python, Flask e FastAPI no backend, além de React e TypeScript no frontend.
 
@@ -91,11 +91,3 @@ Versionamento, containers, terminal, ambientes Linux e sustentação de sistemas
 | 🛡️ **[ItaSafety](https://github.com/FeeSz/itasafety)** | Plataforma web para EPIs — catálogo, filtros, carrinho, autenticação e integrações de backend. [🔗 Deploy ao vivo](https://itasafety.felypelopes7.workers.dev/) | React 19 · TypeScript · TanStack Start · Tailwind CSS · Supabase · Cloudflare Workers |
 | 📊 **[Excel to JSON](https://github.com/FeeSz/excel_to_json)** | Automação de processamento de planilhas Excel: upload autenticado, validação de layout, normalização de dados e conversão estruturada para JSON, com controle de jobs e histórico. | Python · Flask · SQLAlchemy · Pandas · OpenPyXL · PostgreSQL |
 | ✂️ **[Map-barber](https://github.com/FeeSz/Map-barber)** | Plataforma de agendamento para barbearias com mapa interativo. | TypeScript |
-
-
-## 🎯 Em foco agora
-
-- 🛡️ Evoluindo o **ItaSafety** — performance, UX e novas integrações de backend
-- 📊 Expandindo o **Excel to JSON** — novos layouts e processamento assíncrono
-- 💼 Aplicando sustentação de sistemas e troubleshooting em ambiente corporativo
-- 🐍 Aprofundando arquitetura backend, APIs e modelagem de dados
