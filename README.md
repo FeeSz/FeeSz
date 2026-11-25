@@ -62,6 +62,6 @@ Desenvolvo aplicações full stack com foco em backend, APIs, automação e inte
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[ItaSafety](https://github.com/FeeSz/itasafety)** · [Live](https://itasafety.felypelopes7.workers.dev/) | Plataforma web de EPIs com catálogo, filtros, carrinho, autenticação e integrações. | React 19 · TypeScript · TanStack Start · Tailwind CSS · Supabase · Cloudflare Workers |
+| **[ItaSafety](https://github.com/FeeSz/itasafety)** · [Live](https://itasafety.vercel.app/) | Plataforma web de EPIs com catálogo, filtros, carrinho, autenticação e integrações. | React 19 · TypeScript · TanStack Start · Tailwind CSS · Supabase · Cloudflare Workers |
 | **[Excel to JSON](https://github.com/FeeSz/excel_to_json)** | Automação, validação e conversão estruturada de planilhas Excel para JSON, com controle de jobs e histórico. | Python · Flask · SQLAlchemy · Pandas · OpenPyXL · PostgreSQL |
 | **[Map-barber](https://github.com/FeeSz/Map-barber)** | Plataforma de agendamento para barbearias com mapa interativo. | TypeScript |
