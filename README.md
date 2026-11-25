@@ -1,10 +1,6 @@
 
 <h1 align="center">Felype Souza</h1>
 
-<h3 align="center">
-  IT Technician | Full Stack Development & Automation
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=750&lines=Information+Systems+Student;Full+Stack+Development;Python+%26+Backend;Automation+%26+System+Integration" alt="Typing SVG" />
 </p>
