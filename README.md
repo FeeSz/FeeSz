@@ -13,9 +13,13 @@
   <a href="https://www.linkedin.com/in/felype-souza-4391353a2/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:felypelopes7@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/fy.souzaa/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
   </a>
 </p>
 
