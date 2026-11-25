@@ -40,7 +40,7 @@ Trabalho profissionalmente com sustentação de sistemas, diagnóstico de incide
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs," />
 </p>
 
 <sub>
